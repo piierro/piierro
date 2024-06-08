@@ -1,1 +1,1 @@
-<h1 align="center">Hi there, I'm Kira:whale:</h1>
+<h1 align="center">Hi there, I'm Kira</h1>
