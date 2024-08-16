@@ -12,12 +12,12 @@
 
 <h4>Мой стек:</h4>
 
-<h2 color="#fff">Github profile Trophy</h2>
+<h2>Github profile Trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=piierro&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2 color="#fff">Streak stats</h2>
+<h2>Streak stats</h2>
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=&theme=monokai&border_radius=5.1&card_width=497" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=piierro&theme=monokai&border_radius=5.1&card_width=497" alt="GitHub Streak" /></a>
 
 <h4>Связаться со мной:</h4>
