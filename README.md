@@ -3,14 +3,11 @@
 
 <h4>О Себе:</h4>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape%20at%20Dusk.png" alt="Cityscape at Dusk" width="25" height="25"/>
-
-<ul>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape%20at%20Dusk.png" alt="Cityscape at Dusk" width="25" height="25"/>Ищу работу в дружном и комфортном коллективе
-  <li>Хочу развиваться в сфере веб-разработки</li>
-  <li>Стремлюсь писать чистый и оптимизированный код</li>
-  <ulВладею английским на уровне A2></li>
-</ul>
+Хочу развиваться в сфере веб-разработки
+Стремлюсь писать чистый и оптимизированный код
+Владею английским на уровне A2
+
 
 <h4>Мой стек:</h4>
 
