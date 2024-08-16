@@ -20,6 +20,4 @@
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=piierro&theme=monokai&border_radius=5.1&card_width=497" alt="GitHub Streak" /></a>
 
-![](https://komarev.com/ghpvc/?username=piierro)
-
 <h4>Связаться со мной:</h4>
