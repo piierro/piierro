@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape%20at%20Dusk.png" alt="Cityscape at Dusk" width="25" height="25"/>
 
 <ul>
-  <li <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Club%20Suit.png"/>>Ищу работу в дружном и комфортном коллективе</li>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape%20at%20Dusk.png" alt="Cityscape at Dusk" width="25" height="25"/>Ищу работу в дружном и комфортном коллективе
   <li>Хочу развиваться в сфере веб-разработки</li>
   <li>Стремлюсь писать чистый и оптимизированный код</li>
   <ulВладею английским на уровне A2></li>
