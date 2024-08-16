@@ -3,9 +3,11 @@
 
 <h4>О Себе:</h4>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape%20at%20Dusk.png" alt="Cityscape at Dusk" width="25" height="25"/>Ищу работу в дружном и комфортном коллективе
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Spade%20Suit.png" alt="Spade Suit" width="25" height="25" />Хочу развиваться в сфере веб-разработки
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Exclamation%20Mark.png" alt="Red Exclamation Mark" width="25" height="25" />Стремлюсь писать чистый и оптимизированный код
+<ul>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape%20at%20Dusk.png" alt="Cityscape at Dusk" width="25" height="25"/>Ищу работу в дружном и комфортном коллективе</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Spade%20Suit.png" alt="Spade Suit" width="25" height="25" />Хочу развиваться в сфере веб-разработки</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Exclamation%20Mark.png" alt="Red Exclamation Mark" width="25" height="25" />Стремлюсь писать чистый и оптимизированный код</li>
+</ul>
 
 <h4>Мой стек:</h4>
 
