@@ -13,6 +13,6 @@
 <h2>Мой стек:</h2>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=piierro)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=piierro&theme=monokai
 
 <h2>Связаться со мной:</h2>
