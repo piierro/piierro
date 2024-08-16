@@ -16,4 +16,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=piierro&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=piierro" alt="GitHub Streak" /></a>
+
 <h4>Связаться со мной:</h4>
