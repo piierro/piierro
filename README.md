@@ -5,14 +5,6 @@
 <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif?cid=ecf05e477yg7d130nnnco80y8sb5y73sqpu0tjss19tvjndj&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150px"/>
 </div>
 
-<h4>About me:</h4>
-
-- :telescope: Ищу работу в дружном и комфортном коллективе
-
-- :seedling: Хочу развиваться в сфере веб-разработки
-
-- :zap: Стремлюсь писать чистый и оптимизированный код
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
